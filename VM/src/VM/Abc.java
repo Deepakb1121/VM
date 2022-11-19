@@ -7,4 +7,8 @@ public class Abc {
 		System.out.println("Vm");
 	}
 
+	public void m1()
+	{
+	System.out.println("m1");
+	}
 }
